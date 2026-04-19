@@ -34,3 +34,5 @@
 5b. Swing selected color display : "https://github.com/user-attachments/assets/80f8a3e2-2262-482c-8eb4-f378806ead39" />
  
 5c. Swing Country with Capital : "https://github.com/user-attachments/assets/ee805426-6f73-4212-98a7-4a6a3d7f1dfd"
+
+5d. Swing Tabbed Pane Color Selection : "https://github.com/user-attachments/assets/1d8211f5-1a96-4976-b2f0-c9cc2b0ad8db"
