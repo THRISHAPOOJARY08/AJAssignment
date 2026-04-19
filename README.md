@@ -18,3 +18,5 @@
 1c. 3.Linked List insertion at the end : "https://github.com/user-attachments/assets/14b2a6b8-f302-460d-ae4c-a8f0042ee80d"
 
 1c. 4.Linked List display element and its position : "https://github.com/user-attachments/assets/de29a29a-41ff-45cc-9c7e-aa0be13d6967"
+
+1c. 5.Linked List swap two elements : "https://github.com/user-attachments/assets/962f3d20-bfee-418a-870c-c949133806f0"
