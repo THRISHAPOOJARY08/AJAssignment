@@ -1,5 +1,5 @@
 # Advanced Java Assignment Outputs
-1a. ArrayList and LinkedList Operation : "https://github.com/user-attachments/assets/a3865b26-5945-4972-9e1d-618f9c1b2b65" 
+1a. ArrayList and LinkedList Operations : "https://github.com/user-attachments/assets/a3865b26-5945-4972-9e1d-618f9c1b2b65" 
 
 1b. 1.Array List search for colour :  "https://github.com/user-attachments/assets/31245102-0100-4eb9-b932-a35feae52ffd" 
 
@@ -10,4 +10,6 @@
 1b. 4.Array List Using sublist() : "https://github.com/user-attachments/assets/805c544f-a6ec-457f-805c-171655460923"
 
 1b. 5.Array List remove by index : "https://github.com/user-attachments/assets/710bb099-d875-470d-882e-be60408c4291"
+
+1c. 1.Linked List iterator : "https://github.com/user-attachments/assets/e670790f-f900-4ce0-9d81-bebe52663991"
 
