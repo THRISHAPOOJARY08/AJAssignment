@@ -6,3 +6,7 @@
 1b. 2.Array List remove element : "https://github.com/user-attachments/assets/9f395367-36e7-4d64-aafc-e407035e0471"
 
 1b. 3.Array List sort using Collections.sort() : "https://github.com/user-attachments/assets/1a90a042-ddf1-4e5b-9c97-327afad8b2ca"
+
+1b. 4.Using sublist() : "https://github.com/user-attachments/assets/805c544f-a6ec-457f-805c-171655460923"
+
+
