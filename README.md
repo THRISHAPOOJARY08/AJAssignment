@@ -29,4 +29,6 @@
 
 4b. Swing India or Srilanka pressed : "https://github.com/user-attachments/assets/4e13e6d9-183d-4754-aa12-6a025cb9a96e"
 
-5a. Swing Country with Capital : "https://github.com/user-attachments/assets/ee805426-6f73-4212-98a7-4a6a3d7f1dfd"
+5a. Swing selection of country : "https://github.com/user-attachments/assets/70c14ce4-5155-4ef8-8ae5-8346f3cf8c47"
+
+5c. Swing Country with Capital : "https://github.com/user-attachments/assets/ee805426-6f73-4212-98a7-4a6a3d7f1dfd"
